@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+    text-align:center;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+    margin-top:30px;
+}
+
+textarea{
+    width:80%;
+    height:100px;
+    margin:15px;
+    padding:10px;
+}
+
+button{
+    padding:10px 20px;
+    margin:10px;
+    cursor:pointer;
+}
+
+canvas{
+    display:block;
+    margin:20px auto;
+    max-width:600px;
+    border:1px solid #ccc;
+}
+
+#downloadLink{
+    display:none;
+    margin-top:15px;
+}
